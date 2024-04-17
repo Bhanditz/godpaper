@@ -5,3 +5,4 @@ sgf==0.5
 tensorflow>=1.0
 protobuf==3.1.0.post1
 six==1.10.0
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
